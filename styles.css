@@ -182,7 +182,7 @@ h2:hover {
 /* For margin practice */
 .flag1 {
   background-color: red;
-  margin-left: 5px;
+  /*margin-left: 5px;*/
   margin-right: 5px;
 
 }
@@ -190,7 +190,7 @@ h2:hover {
 .flag2 {
   background-color: blue;
   margin-left: 5px;
-  margin-right: 5px;
+  /*margin-right: 5px;*/
   /* TODO */
 }
 /* For padding practice */
